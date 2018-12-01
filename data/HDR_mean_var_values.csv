@@ -1,0 +1,142 @@
+[Dimension] Attribute,Mean,Variance
+Human Development Index (HDI),0.6550672692873659,0.02746214514900737
+[Demography] Median age (years),25.90945945945946,66.50991952763574
+[Demography] Old age dependency ratio (old age (65 and older) per 100 people (ages 15-64)),11.682117117117118,60.23818020249979
+"[Demography] Population, ages 15–64 (millions)",23.79787234042553,8655.247152557717
+"[Demography] Population, ages 65 and older (millions)",2.8222522522522526,111.66196429672917
+"[Demography] Population, total (millions)",34.80264957264957,17632.790651099418
+"[Demography] Population, under age 5 (millions)",3.520810810810811,139.56762997321644
+"[Demography] Population, urban (%)",55.90358974358974,555.8484144641684
+[Demography] Sex ratio at birth (male to female births),1.051310810810811,0.00036936285609934265
+[Demography] Young age (0-14) dependency ratio (per 100 people ages 15-64),51.26036036036036,578.1252485187891
+[Education] Education Index,0.5779826105174943,0.03525778494797255
+[Education] Expected years of schooling (years),11.748269155970439,11.199152002234177
+"[Education] Expected years of schooling, female (years)",12.53820939334638,13.49383847670237
+"[Education] Expected years of schooling, male (years)",12.51742535487029,8.319432039827028
+[Education] Government expenditure on education (% of GDP),4.477690802348337,3.043142221422252
+"[Education] Gross enrolment ratio, pre-primary (% of preschool-age children)",57.831076265146116,1178.2572808801422
+"[Education] Gross enrolment ratio, primary (% of primary school-age population)",101.44451109778045,249.82460544483783
+"[Education] Gross enrolment ratio, secondary (% of secondary school-age population)",78.40638002773925,912.2800702522502
+"[Education] Gross enrolment ratio, tertiary (% of tertiary school-age population)",34.65015479876161,691.1624380565327
+"[Education] Literacy rate, adult (% ages 15 and older)",83.2059171597633,368.467775638108
+[Education] Mean years of schooling (years),7.428272142708982,10.066358951866578
+"[Education] Mean years of schooling, female (years)",7.503728294177732,12.631073944562054
+"[Education] Mean years of schooling, male (years)",8.310736196319018,8.75572317989637
+[Education] Population with at least some secondary education (% ages 25 and older),56.29484425349087,809.3616168124777
+"[Education] Population with at least some secondary education, female (% ages 25 and older)",54.07509234828496,912.7587885798623
+"[Education] Population with at least some secondary education, male (% ages 25 and older)",59.15187533016376,758.8623591350122
+[Education] Primary school dropout rate (% of primary school cohort),16.01361079865017,318.47228943682376
+[Education] Primary school teachers trained to teach (%),82.1701030927835,361.1102401955574
+[Education] Programme for International Student Assessment (PISA) score in mathematics,460.67164179104475,2782.2802405881043
+[Education] Programme for International Student Assessment (PISA) score in reading,462.02985074626866,2439.9095566941414
+[Education] Programme for International Student Assessment (PISA) score in science,465.65671641791045,2327.150813098686
+[Education] Proportion of schools with access to the Internet (%),65.66666666666667,1397.0555555555554
+"[Education] Pupil-teacher ratio, primary school (number of pupils per teacher)",25.463120567375885,190.8330370705699
+[Education] Survival rate to the last grade of lower secondary general education (%),86.31200897867565,189.11477160934703
+[Environmental Sustainability] Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.269683426443203,0.04677476011637867
+[Environmental Sustainability] Carbon dioxide emissions per capita (tonnes),4.47223208999408,39.25982693014844
+[Environmental Sustainability] Forest area (% of total land area),31.983106694560668,572.8135901392438
+"[Environmental Sustainability] Forest area, change (%)",2.853763440860215,942.4514105676956
+[Environmental Sustainability] Fossil fuel energy consumption (% of total energy consumption),64.99821843532146,923.8504615820303
+[Environmental Sustainability] Fresh water withdrawals (% of total renewable water resources),51.50996015936256,36235.28782908207
+"[Environmental Sustainability] Mortality rate attributed to household and ambient air pollution (per 100,000 population)",92.21256830601094,5146.2945414912365
+"[Environmental Sustainability] Mortality rate attributed to unsafe water, sanitation and hygiene services (per 100,000 population)",12.499453551912566,430.9061745647825
+[Environmental Sustainability] Renewable energy consumption (% of total final energy consumption),32.83860294117647,922.5407944767979
+"[Gender] Adolescent birth rate (births per 1,000 women ages 15-19)",57.43031531531532,2172.027148549225
+"[Gender] Antenatal care coverage, at least one visit (%)",85.82176470588236,281.87605570934255
+"[Gender] Child marriage, women married by age 18 (% of women ages 20–24 years who are married or in union)",23.4,219.93599999999998
+"[Gender] Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",47.297474747474745,518.723832006938
+"[Gender] Estimated gross national income per capita, female (2011 PPP$)",11156.865128205129,163840058.89309165
+"[Gender] Estimated gross national income per capita, male (2011 PPP$)",20544.35948717949,528786037.2989741
+[Gender] Female share of employment in senior and middle management (%),30.634513274336282,69.57903007283264
+"[Gender] Female share of graduates in science, mathematics, engineering, manufacturing and construction at tertiary level (%)",13.997169811320758,47.923671235315055
+[Gender] Gender Development Index (GDI),0.9258987119437939,0.007269977445647702
+[Gender] Gender Inequality Index (GII),0.38344934742075826,0.03759584469969844
+"[Gender] Human Development Index (HDI), female",0.6622023391812866,0.03128818478984987
+"[Gender] Human Development Index (HDI), male",0.7065980105324752,0.023089477374625987
+[Gender] Mandatory paid maternity leave (days),107.2247191011236,4398.286579977275
+"[Gender] Maternal mortality ratio (deaths per 100,000 live births)",224.5445054945055,103343.64032695326
+[Gender] Proportion of births attended by skilled health personnel (%),87.82948593598448,440.12787936716404
+"[Gender] Share of employment in nonagriculture, female (% of total employment in nonagriculture)",38.74115740740741,133.79280143818588
+[Gender] Share of seats in parliament (% held by women),17.6290546802595,123.73808538996653
+[Gender] Total unemployment rate (female to male ratio),1.4032962962962963,1.1042333936899862
+"[Gender] Unmet need for family planning (% of married or in-union women of reproductive age, 15–49 years)",20.009999999999998,85.14773333333332
+"[Gender] Violence against women ever experienced, intimate partner (% of female population ages 15 and older)",28.371962616822426,187.62612979299502
+"[Gender] Violence against women ever experienced, nonintimate partner (% of female population ages 15 and older)",7.541071428571428,59.9645631377551
+[Gender] Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),50.15349887133183,996.7308399023689
+[Gender] Youth unemployment rate (female to male ratio),1.0894675925925925,0.04361328135716735
+"[Health] Child malnutrition, stunting (moderate or severe) (% under age 5)",22.83560606060606,176.48835342056935
+[Health] Current health expenditure (% of GDP),6.407573726541555,8.313273737861985
+"[Health] HIV prevalence, adult (% ages 15-49), total",2.0480662983425413,20.252965874057566
+"[Health] Infants lacking immunization, DTP (% of one-year-olds)",7.815662120545534,120.23042781720572
+"[Health] Infants lacking immunization, measles (% of one-year-olds)",14.63920704845815,243.0500046575715
+[Health] Life expectancy Index,0.738322550486163,0.021974620157144985
+[Health] Life expectancy at birth (years),67.98956619296933,92.853844015252
+"[Health] Life expectancy at birth, female (years)",71.77788288288289,91.77639822051782
+"[Health] Life expectancy at birth, male (years)",66.91022522522523,77.10364769702134
+"[Health] Malaria incidence (per 1,000 people at risk)",130.7862626262626,40487.711245627994
+"[Health] Mortality rate, female adult (per 1,000 people)",155.54522357723576,11004.286572714242
+"[Health] Mortality rate, infant (per 1,000 live births)",31.12826189354687,864.532267680823
+"[Health] Mortality rate, male adult (per 1,000 people)",224.52439024390245,12104.535990481858
+"[Health] Mortality rate, under-five (per 1,000 live births)",43.705416862929816,2273.7967723533097
+"[Health] Tuberculosis incidence (per 100,000 people)",128.8528735632184,30859.542215880567
+[Human Security] Birth registration (% under age 5),83.69822485207101,577.2639613458913
+[Human Security] Homeless people due to natural disaster (average annual per million people),187.9787234042553,460884.7761430512
+"[Human Security] Homicide rate (per 100,000 people)",7.997649034424854,146.41201798261665
+"[Human Security] Prison population (per 100,000 people)",165.33333333333334,16525.48148148148
+[Human Security] Refugees by country of origin (thousands),101.06282722513089,286551.9795082371
+"[Human Security] Suicide rate, female (per 100,000 people)",5.675546448087432,13.14206595822509
+"[Human Security] Suicide rate, male (per 100,000 people)",17.50068306010929,129.770668932336
+[Income_composition of resources] Domestic credit provided by financial sector (% of GDP),64.29397905759163,3378.953215057153
+[Income_composition of resources] Gross domestic product (GDP) per capita (2011 PPP $),16320.57390510949,352389168.00001246
+"[Income_composition of resources] Gross domestic product (GDP), total (2011 PPP $ billions)",479.6138229927007,2834139.4332258953
+[Income_composition of resources] Gross fixed capital formation (% of GDP),23.001415836392237,104.808099725874
+[Income_composition of resources] Gross national income (GNI) per capita (2011 PPP$),15055.57153642884,344984330.01385194
+[Income_composition of resources] Income Index,0.6541170252925632,0.033859118430411214
+[Inequality] Coefficient of Human Inequality,20.755333911535125,108.42108386508592
+"[Inequality] Income inequality, Gini coefficient",38.17142857142857,65.72320964749537
+"[Inequality] Income inequality, Palma ratio",1.8941558441558441,0.9800307809074043
+"[Inequality] Income inequality, quintile ratio",7.9071428571428575,17.65871521335807
+[Inequality] Inequality in education (%),20.391544715447154,216.4693431423095
+[Inequality] Inequality in income (%),24.08081494057725,114.64005638171227
+[Inequality] Inequality in life expectancy (%),17.49263085399449,163.8948561640067
+[Inequality] Inequality-adjusted HDI (IHDI),0.5591864700780572,0.036368746668632455
+[Inequality] Inequality-adjusted education index,0.5287342600163533,0.05058888686386371
+[Inequality] Inequality-adjusted income index,0.5142351443123939,0.029419857270819576
+[Inequality] Inequality-adjusted life expectancy index,0.6626232782369147,0.03643117144159476
+[Inequality] Overall loss in HDI due to inequality (%),21.20832610581093,113.60029494309124
+[Mobility and communication] International inbound tourists (thousands),5272.8,130433224.27054128
+[Mobility and communication] International student mobility (% of total tertiary enrolment),-7.361232349165596,1499.6766485455007
+"[Mobility and communication] Internet users, female (% of female population)",64.95172413793104,572.1960602457391
+"[Mobility and communication] Internet users, total (% of population)",35.379351032448376,861.7626296673367
+[Mobility and communication] Mobile phone subscriptions (per 100 people),83.53679628554846,2335.9714608911763
+"[Mobility and communication] Net migration rate (per 1,000 people)",-0.5121621621621621,109.3089962259557
+[Socio-economic sustainability] Adjusted net savings (% of GNI),6.6027853260869565,213.93570555717596
+[Socio-economic sustainability] Concentration index (exports) (value),0.3442939416604338,0.04858850970899585
+[Socio-economic sustainability] Gross capital formation (% of GDP),24.071553949406297,95.80552536015091
+"[Socio-economic sustainability] Income quintile ratio, average annual change (%)",-0.4024193548387096,6.872816727367325
+"[Socio-economic sustainability] Overall loss in HDI value due to inequality, average annual change (%)",-1.187121212121212,5.4330917125803495
+[Socio-economic sustainability] Population using improved drinking-water sources (%),83.55564304461943,389.4770613319005
+[Socio-economic sustainability] Population using improved sanitation facilities (%),70.97657894736842,938.4540830332409
+[Socio-economic sustainability] Ratio of education and health expenditure to military expenditure,9.215020297699594,68.81085693463535
+[Socio-economic sustainability] Research and development expenditure (% of GDP),1.0074542897327707,0.9352608892607825
+[Socio-economic sustainability] Rural population with access to electricity (%),71.83938030984508,1323.9218774770534
+[Socio-economic sustainability] Skilled labour force (% of labour force),63.70511049723757,627.4220871424866
+"[Socio-economic sustainability] Total debt service (% of exports of goods, services and primary income)",13.307317073170731,156.30304990871608
+[Trade and financial flows] Exports and imports (% of GDP),89.52197590361446,3006.725425493395
+"[Trade and financial flows] Foreign direct investment, net inflows (% of GDP)",5.047030651340997,175.75721340519075
+[Trade and financial flows] Net official development assistance received (% of GNI),7.214469235970251,117.76207596913471
+[Trade and financial flows] Private capital flows (% of GDP),-4.164709141274238,579.8167545552903
+"[Trade and financial flows] Remittances, inflows (% of GDP)",4.55304347826087,62.68103131695023
+"[Work, employment and vulnerability] Child labour (% ages 5-17)",16.55138888888889,159.5322202932099
+"[Work, employment and vulnerability] Employment in agriculture (% of total employment)",30.58125,679.378486400463
+"[Work, employment and vulnerability] Employment in services (% of total employment)",49.57990740740741,427.7469296210562
+"[Work, employment and vulnerability] Employment to population ratio (% ages 15 and older)",57.497592592592596,135.01388309327845
+"[Work, employment and vulnerability] Labour force participation rate (% ages 15 and older)",62.52583333333333,111.39361041666666
+"[Work, employment and vulnerability] Labour force participation rate (% ages 15 and older), female",50.88981481481481,263.87822959533605
+"[Work, employment and vulnerability] Labour force participation rate (% ages 15 and older), male",73.88305555555557,77.90986103395062
+"[Work, employment and vulnerability] Old-age pension recipients (% of statutory pension age population)",53.73028571428571,1419.7288542040817
+"[Work, employment and vulnerability] Unemployment, total (% of labour force)",8.411805555555556,39.48030044367284
+"[Work, employment and vulnerability] Unemployment, youth (% ages 15–24)",17.838148148148154,161.4273317558299
+"[Work, employment and vulnerability] Vulnerable employment (% of total employment)",39.03791666666666,730.3515484375
+"[Work, employment and vulnerability] Youth not in school or employment (% ages 15-24)",16.77699530516432,79.56512023628468

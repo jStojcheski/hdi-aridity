@@ -1,0 +1,13 @@
+Attribute,Mean,Variance
+Aridity Index (AI),1.091737435493138,0.5792649522819138
+Cloud Cover (CLD) [percentage],56.104899946399854,205.58751529729676
+Diurnal Temperature Range (DTR) [degrees Celsius],10.247842594246919,6.7922746916786725
+Ground Frost Frequency (FRS) [days],46.84486778631409,4558.4450053738
+Maximum Temperature (TMX) [degrees Celsius],24.032378953010543,73.22803280761849
+Mean Temperature (TMP) [degrees Celsius],18.885353760943364,69.43079987038652
+Minimum Temperature (TMN) [degrees Celsius],13.78097641593711,69.2263108743768
+Potential Evapotranspiration (PET) [mm_day],3.394178717093066,1.477124992902618
+Potential Evapotranspiration (PET) [mm_month],1239.722492584353,197059.91858242254
+Precipitation (PRE) [mm_month],1208.8897534393425,736167.8870872539
+Rain Days (WET) [days],127.54804806146149,3716.9067243478776
+Vapour Pressure (VAP) [hPa],17.049723065928173,58.57278757740794

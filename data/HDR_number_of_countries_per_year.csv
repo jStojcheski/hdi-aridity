@@ -1,0 +1,124 @@
+[Dimension] Attribute,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
+Human Development Index (HDI),142.0,143.0,140.0,143.0,143.0,147.0,147.0,147.0,147.0,150.0,172.0,172.0,174.0,176.0,179.0,186.0,186.0,186.0,186.0,186.0,188.0,188.0,188.0,188.0,188.0,188.0,188.0,189.0
+[Demography] Median age (years),185.0,,,,,185.0,,,,,185.0,,,,,185.0,,,,,185.0,,,,,185.0,,
+[Demography] Old age dependency ratio (old age (65 and older) per 100 people (ages 15-64)),185.0,,,,,185.0,,,,,185.0,,,,,185.0,,,,,185.0,185.0,185.0,185.0,185.0,185.0,185.0,185.0
+"[Demography] Population, ages 15–64 (millions)",184.0,,,,,184.0,,,,,184.0,,,,,184.0,,,,,184.0,184.0,184.0,184.0,184.0,184.0,184.0,185.0
+"[Demography] Population, ages 65 and older (millions)",185.0,,,,,185.0,,,,,185.0,,,,,185.0,,,,,185.0,185.0,185.0,185.0,185.0,185.0,185.0,185.0
+"[Demography] Population, total (millions)",195.0,,,,,195.0,,,,,195.0,,,,,195.0,,,,,195.0,195.0,195.0,195.0,195.0,195.0,195.0,195.0
+"[Demography] Population, under age 5 (millions)",185.0,,,,,185.0,,,,,185.0,,,,,185.0,,,,,185.0,185.0,185.0,185.0,185.0,185.0,185.0,185.0
+"[Demography] Population, urban (%)",195.0,,,,,195.0,,,,,195.0,,,,,195.0,,,,,195.0,195.0,195.0,195.0,195.0,195.0,195.0,195.0
+[Demography] Sex ratio at birth (male to female births),185.0,,,,,185.0,,,,,185.0,,,,,185.0,,,,,185.0,,,,,185.0,185.0,185.0
+[Demography] Young age (0-14) dependency ratio (per 100 people ages 15-64),185.0,,,,,185.0,,,,,185.0,,,,,185.0,,,,,185.0,185.0,185.0,185.0,185.0,185.0,185.0,185.0
+[Education] Education Index,144.0,144.0,144.0,144.0,144.0,148.0,148.0,148.0,148.0,151.0,173.0,173.0,174.0,176.0,179.0,186.0,186.0,186.0,186.0,186.0,188.0,188.0,188.0,188.0,188.0,188.0,188.0,189.0
+[Education] Expected years of schooling (years),172.0,172.0,172.0,172.0,172.0,175.0,175.0,175.0,175.0,178.0,186.0,187.0,187.0,187.0,187.0,188.0,188.0,188.0,188.0,189.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,192.0
+"[Education] Expected years of schooling, female (years)",108.0,,,,,146.0,,,,,167.0,,,,,173.0,,,,,179.0,180.0,182.0,182.0,182.0,182.0,182.0,181.0
+"[Education] Expected years of schooling, male (years)",107.0,,,,,145.0,,,,,168.0,,,,,173.0,,,,,179.0,180.0,182.0,182.0,182.0,182.0,182.0,181.0
+[Education] Government expenditure on education (% of GDP),49.0,,,,,79.0,,,,,119.0,,,,,108.0,,,,,123.0,119.0,110.0,115.0,98.0,56.0,40.0,6.0
+"[Education] Gross enrolment ratio, pre-primary (% of preschool-age children)",107.0,,,,,118.0,,,,,128.0,,,,,129.0,,,,,131.0,135.0,133.0,132.0,136.0,145.0,102.0,7.0
+"[Education] Gross enrolment ratio, primary (% of primary school-age population)",144.0,,,,,149.0,,,,,161.0,,,,,166.0,,,,,154.0,158.0,158.0,149.0,150.0,154.0,113.0,11.0
+"[Education] Gross enrolment ratio, secondary (% of secondary school-age population)",123.0,,,,,113.0,,,,,137.0,,,,,147.0,,,,,138.0,143.0,137.0,130.0,133.0,136.0,96.0,9.0
+"[Education] Gross enrolment ratio, tertiary (% of tertiary school-age population)",120.0,,,,,109.0,,,,,110.0,,,,,119.0,,,,,127.0,133.0,130.0,119.0,120.0,118.0,80.0,7.0
+"[Education] Literacy rate, adult (% ages 15 and older)",15.0,,,,,5.0,,,,,41.0,,,,,20.0,,,,,45.0,56.0,42.0,30.0,37.0,32.0,15.0,
+[Education] Mean years of schooling (years),148.0,148.0,148.0,148.0,148.0,151.0,151.0,151.0,151.0,153.0,174.0,174.0,175.0,177.0,180.0,186.0,187.0,186.0,187.0,187.0,188.0,189.0,189.0,189.0,189.0,189.0,189.0,189.0
+"[Education] Mean years of schooling, female (years)",143.0,,,,,146.0,,,,,153.0,,,,,162.0,,,,,168.0,169.0,168.0,169.0,169.0,170.0,170.0,171.0
+"[Education] Mean years of schooling, male (years)",142.0,,,,,145.0,,,,,153.0,,,,,162.0,,,,,168.0,169.0,168.0,169.0,169.0,170.0,170.0,171.0
+[Education] Population with at least some secondary education (% ages 25 and older),143.0,,,,,143.0,,,,,146.0,,,,,152.0,,,,,146.0,153.0,159.0,161.0,162.0,163.0,167.0,167.0
+"[Education] Population with at least some secondary education, female (% ages 25 and older)",143.0,,,,,143.0,,,,,152.0,,,,,155.0,,,,,160.0,160.0,161.0,163.0,163.0,165.0,165.0,165.0
+"[Education] Population with at least some secondary education, male (% ages 25 and older)",143.0,,,,,143.0,,,,,152.0,,,,,154.0,,,,,160.0,160.0,160.0,163.0,163.0,165.0,165.0,165.0
+[Education] Primary school dropout rate (% of primary school cohort),53.0,,,,,63.0,,,,,99.0,,,,,95.0,,,,,100.0,110.0,104.0,97.0,91.0,70.0,7.0,
+[Education] Primary school teachers trained to teach (%),,,,,,,,,,,45.0,,,,,58.0,,,,,62.0,73.0,70.0,63.0,71.0,71.0,60.0,9.0
+[Education] Programme for International Student Assessment (PISA) score in mathematics,,,,,,,,,,,,,,,,,,,,,,,,,,67.0,,
+[Education] Programme for International Student Assessment (PISA) score in reading,,,,,,,,,,,,,,,,,,,,,,,,,,67.0,,
+[Education] Programme for International Student Assessment (PISA) score in science,,,,,,,,,,,,,,,,,,,,,,,,,,67.0,,
+"[Education] Pupil-teacher ratio, primary school (number of pupils per teacher)",106.0,,,,,112.0,,,,,138.0,,,,,131.0,,,,,136.0,139.0,137.0,133.0,135.0,135.0,97.0,11.0
+[Education] Survival rate to the last grade of lower secondary general education (%),42.0,,,,,43.0,,,,,70.0,,,,,94.0,,,,,108.0,109.0,109.0,110.0,110.0,88.0,8.0,
+[Environmental Sustainability] Carbon dioxide emissions (kg per 2011 PPP $ of GDP),144.0,,,,,173.0,,,,,179.0,,,,,183.0,,,,,185.0,186.0,187.0,187.0,187.0,,,
+[Environmental Sustainability] Carbon dioxide emissions per capita (tonnes),162.0,,,,,186.0,,,,,188.0,,,,,190.0,,,,,192.0,192.0,193.0,193.0,193.0,,,
+[Environmental Sustainability] Forest area (% of total land area),186.0,,,,,190.0,,,,,192.0,,,,,192.0,,,,,192.0,192.0,192.0,192.0,192.0,192.0,,
+[Environmental Sustainability] Fossil fuel energy consumption (% of total energy consumption),153.0,,,,,133.0,,,,,134.0,,,,,165.0,,,,,134.0,135.0,134.0,138.0,131.0,34.0,,
+[Environmental Sustainability] Fresh water withdrawals (% of total renewable water resources),29.0,,,,,28.0,,,,,65.0,,,,,43.0,,,,,18.0,7.0,33.0,16.0,3.0,8.0,1.0,
+"[Environmental Sustainability] Mortality rate attributed to household and ambient air pollution (per 100,000 population)",,,,,,,,,,,,,,,,,,,,,,,,,,,183.0,
+"[Environmental Sustainability] Mortality rate attributed to unsafe water, sanitation and hygiene services (per 100,000 population)",,,,,,,,,,,,,,,,,,,,,,,,,,,183.0,
+[Environmental Sustainability] Renewable energy consumption (% of total final energy consumption),181.0,,,,,187.0,,,,,189.0,,,,,191.0,,,,,192.0,192.0,193.0,193.0,193.0,193.0,,
+"[Gender] Adolescent birth rate (births per 1,000 women ages 15-19)",185.0,,,,,185.0,,,,,185.0,,,,,185.0,,,,,185.0,185.0,185.0,185.0,185.0,185.0,185.0,185.0
+"[Gender] Antenatal care coverage, at least one visit (%)",9.0,,,,,19.0,,,,,66.0,,,,,38.0,,,,,39.0,29.0,38.0,26.0,37.0,21.0,15.0,3.0
+"[Gender] Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",11.0,,,,,34.0,,,,,67.0,,,,,41.0,,,,,33.0,36.0,36.0,30.0,41.0,24.0,33.0,10.0
+"[Gender] Estimated gross national income per capita, female (2011 PPP$)",,,,,,175.0,,,,,176.0,,,,,177.0,,,,,177.0,177.0,178.0,178.0,178.0,178.0,178.0,178.0
+"[Gender] Estimated gross national income per capita, male (2011 PPP$)",,,,,,175.0,,,,,176.0,,,,,177.0,,,,,177.0,177.0,178.0,178.0,178.0,178.0,178.0,178.0
+[Gender] Female share of employment in senior and middle management (%),,1.0,,,,15.0,,,,,28.0,,,,,32.0,,,,,46.0,48.0,54.0,55.0,55.0,57.0,56.0,5.0
+[Gender] Gender Development Index (GDI),,,,,,117.0,,,,,141.0,,,,,153.0,,,,,158.0,159.0,162.0,163.0,163.0,164.0,164.0,164.0
+[Gender] Gender Inequality Index (GII),,,,,,121.0,,,,,119.0,,,,,144.0,,,,,149.0,150.0,153.0,150.0,151.0,156.0,159.0,157.0
+"[Gender] Human Development Index (HDI), female",,,,,,119.0,,,,,141.0,,,,,153.0,,,,,158.0,159.0,162.0,163.0,163.0,164.0,164.0,164.0
+"[Gender] Human Development Index (HDI), male",,,,,,117.0,,,,,142.0,,,,,153.0,,,,,158.0,159.0,162.0,163.0,163.0,164.0,164.0,164.0
+[Gender] Mandatory paid maternity leave (days),,,,,,,,,,,,,,,,,,,,,,,,,,,,178.0
+"[Gender] Maternal mortality ratio (deaths per 100,000 live births)",182.0,,,,,182.0,,,,,182.0,,,,,182.0,,,,,182.0,182.0,182.0,182.0,182.0,182.0,,
+[Gender] Proportion of births attended by skilled health personnel (%),60.0,,,,,68.0,,,,,140.0,,,,,114.0,,,,,116.0,104.0,105.0,95.0,108.0,72.0,46.0,3.0
+"[Gender] Share of employment in nonagriculture, female (% of total employment in nonagriculture)",,180.0,,,,180.0,,,,,180.0,,,,,180.0,,,,,180.0,180.0,180.0,180.0,180.0,180.0,180.0,180.0
+[Gender] Share of seats in parliament (% held by women),,,,,,157.0,,157.0,,,154.0,,,,,185.0,,,,,185.0,187.0,189.0,184.0,186.0,189.0,192.0,193.0
+[Gender] Total unemployment rate (female to male ratio),,180.0,,,,180.0,,,,,180.0,,,,,180.0,,,,,180.0,180.0,180.0,180.0,180.0,180.0,180.0,180.0
+"[Gender] Unmet need for family planning (% of married or in-union women of reproductive age, 15–49 years)",6.0,,,,,12.0,,,,,16.0,,,,,17.0,,,,,26.0,29.0,27.0,19.0,33.0,18.0,27.0,10.0
+[Gender] Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),,,,,,,,,,,,,,,,,,,,,,142.0,,,145.0,,,156.0
+[Gender] Youth unemployment rate (female to male ratio),,180.0,,,,180.0,,,,,180.0,,,,,180.0,,,,,180.0,180.0,180.0,180.0,180.0,180.0,180.0,180.0
+[Health] Current health expenditure (% of GDP),,,,,,,,,,,183.0,,,,,186.0,,,,,187.0,187.0,188.0,187.0,187.0,187.0,,
+"[Health] HIV prevalence, adult (% ages 15-49), total",131.0,,,,,131.0,,,,,131.0,,,,,131.0,,,,,132.0,132.0,132.0,132.0,132.0,132.0,132.0,
+"[Health] Infants lacking immunization, DTP (% of one-year-olds)",162.0,,,,,187.0,,,,,190.0,,,,,191.0,,,,,192.0,193.0,193.0,193.0,193.0,193.0,193.0,193.0
+"[Health] Infants lacking immunization, measles (% of one-year-olds)",160.0,,,,,186.0,,,,,190.0,,,,,191.0,,,,,192.0,193.0,193.0,193.0,193.0,193.0,193.0,193.0
+[Health] Life expectancy Index,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0
+[Health] Life expectancy at birth (years),191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0
+"[Health] Life expectancy at birth, female (years)",185.0,,,,,185.0,,,,,185.0,,,,,185.0,,,,,185.0,185.0,185.0,185.0,185.0,185.0,185.0,185.0
+"[Health] Life expectancy at birth, male (years)",185.0,,,,,185.0,,,,,185.0,,,,,185.0,,,,,185.0,185.0,185.0,185.0,185.0,185.0,185.0,185.0
+"[Health] Malaria incidence (per 1,000 people at risk)",,,,,,,,,,,99.0,,,,,99.0,,,,,99.0,,,,,99.0,99.0,
+"[Health] Mortality rate, female adult (per 1,000 people)",187.0,,,,,185.0,,,,,188.0,,,,,185.0,,,,,185.0,184.0,183.0,183.0,180.0,157.0,151.0,
+"[Health] Mortality rate, infant (per 1,000 live births)",193.0,,,,,193.0,,,,,193.0,,,,,193.0,,,,,193.0,193.0,193.0,193.0,193.0,193.0,193.0,
+"[Health] Mortality rate, male adult (per 1,000 people)",187.0,,,,,185.0,,,,,188.0,,,,,185.0,,,,,185.0,184.0,183.0,183.0,180.0,157.0,151.0,
+"[Health] Mortality rate, under-five (per 1,000 live births)",193.0,,,,,193.0,,,,,193.0,,,,,193.0,,,,,193.0,193.0,193.0,193.0,193.0,193.0,193.0,
+"[Health] Tuberculosis incidence (per 100,000 people)",,,,,,,,,,,190.0,,,,,193.0,,,,,193.0,194.0,194.0,194.0,194.0,194.0,194.0,
+"[Human Security] Homicide rate (per 100,000 people)",,,,,,,,,,,135.0,,,,,159.0,,,,,173.0,139.0,138.0,117.0,115.0,127.0,88.0,
+[Human Security] Refugees by country of origin (thousands),,,,,,,,,,,,,,,,,,,,,,,,,,,,191.0
+"[Human Security] Suicide rate, female (per 100,000 people)",,,,,,,,,,,183.0,,,,,183.0,,,,,183.0,,,,,183.0,,
+"[Human Security] Suicide rate, male (per 100,000 people)",,,,,,,,,,,183.0,,,,,183.0,,,,,183.0,,,,,183.0,,
+[Income_composition of resources] Domestic credit provided by financial sector (% of GDP),121.0,,,,,142.0,,,,,148.0,,,,,176.0,,,,,174.0,173.0,171.0,170.0,168.0,167.0,163.0,137.0
+[Income_composition of resources] Gross domestic product (GDP) per capita (2011 PPP $),159.0,,,,,175.0,,,,,183.0,,,,,185.0,,,,,186.0,188.0,186.0,186.0,186.0,186.0,186.0,186.0
+"[Income_composition of resources] Gross domestic product (GDP), total (2011 PPP $ billions)",159.0,,,,,175.0,,,,,183.0,,,,,185.0,,,,,186.0,188.0,186.0,186.0,186.0,186.0,186.0,186.0
+[Income_composition of resources] Gross fixed capital formation (% of GDP),141.0,,,,,153.0,,,,,162.0,,,,,163.0,,,,,165.0,168.0,167.0,167.0,167.0,164.0,158.0,132.0
+[Income_composition of resources] Gross national income (GNI) per capita (2011 PPP$),187.0,189.0,183.0,186.0,187.0,187.0,187.0,188.0,188.0,188.0,189.0,189.0,190.0,190.0,190.0,190.0,190.0,190.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0
+[Income_composition of resources] Income Index,187.0,189.0,183.0,186.0,187.0,187.0,187.0,188.0,188.0,188.0,189.0,189.0,190.0,190.0,190.0,190.0,190.0,190.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0,191.0
+[Inequality] Coefficient of Human Inequality,,,,,,,,,,,,,,,,,,,,,139.0,134.0,132.0,145.0,151.0,151.0,149.0,152.0
+[Inequality] Inequality in education (%),,,,,,,,,,,,,,,,,,,,,146.0,141.0,137.0,153.0,160.0,160.0,164.0,169.0
+[Inequality] Inequality in income (%),,,,,,,,,,,,,,,,,,,,,141.0,135.0,134.0,151.0,154.0,154.0,153.0,156.0
+[Inequality] Inequality in life expectancy (%),,,,,,,,,,,,,,,,,,,,,167.0,181.0,179.0,185.0,185.0,185.0,185.0,185.0
+[Inequality] Inequality-adjusted HDI (IHDI),,,,,,,,,,,,,,,,,,,,,139.0,134.0,132.0,145.0,151.0,151.0,149.0,152.0
+[Inequality] Inequality-adjusted education index,,,,,,,,,,,,,,,,,,,,,146.0,141.0,137.0,152.0,158.0,158.0,163.0,168.0
+[Inequality] Inequality-adjusted income index,,,,,,,,,,,,,,,,,,,,,141.0,135.0,134.0,151.0,154.0,154.0,153.0,156.0
+[Inequality] Inequality-adjusted life expectancy index,,,,,,,,,,,,,,,,,,,,,167.0,181.0,179.0,185.0,185.0,185.0,185.0,185.0
+[Inequality] Overall loss in HDI due to inequality (%),,,,,,,,,,,,,,,,,,,,,139.0,134.0,132.0,145.0,151.0,151.0,149.0,152.0
+[Mobility and communication] International inbound tourists (thousands),,,,,,166.0,,,,,177.0,,,,,181.0,,,,,183.0,181.0,180.0,179.0,174.0,174.0,160.0,
+[Mobility and communication] International student mobility (% of total tertiary enrolment),,,,,,,,,,,62.0,,,,,70.0,,,,,86.0,102.0,102.0,91.0,94.0,96.0,71.0,5.0
+"[Mobility and communication] Internet users, total (% of population)",,,,,,,,,,,184.0,,,,,185.0,,,,,189.0,192.0,189.0,189.0,189.0,189.0,189.0,
+[Mobility and communication] Mobile phone subscriptions (per 100 people),,,,,,,,,,,189.0,,,,,190.0,,,,,192.0,191.0,192.0,191.0,192.0,193.0,193.0,
+"[Mobility and communication] Net migration rate (per 1,000 people)",185.0,,,,,185.0,,,,,185.0,,,,,185.0,,,,,185.0,,,,,185.0,,
+[Socio-economic sustainability] Adjusted net savings (% of GNI),102.0,,,,,115.0,,,,,123.0,,,,,141.0,,,,,142.0,148.0,149.0,147.0,144.0,138.0,123.0,
+[Socio-economic sustainability] Concentration index (exports) (value),,,,,,,,,,,,,,,,,,,,,191.0,191.0,191.0,191.0,191.0,191.0,191.0,
+[Socio-economic sustainability] Gross capital formation (% of GDP),145.0,,,,,157.0,,,,,165.0,,,,,166.0,,,,,168.0,170.0,169.0,168.0,168.0,166.0,162.0,133.0
+[Socio-economic sustainability] Population using improved drinking-water sources (%),,,,,,,,,,,184.0,,,,,191.0,,,,,194.0,,,,,193.0,,
+[Socio-economic sustainability] Population using improved sanitation facilities (%),,,,,,,,,,,184.0,,,,,189.0,,,,,194.0,,,,,193.0,,
+[Socio-economic sustainability] Ratio of education and health expenditure to military expenditure,,,,,,21.0,,,,,97.0,,,,,94.0,,,,,101.0,99.0,97.0,102.0,85.0,43.0,,
+[Socio-economic sustainability] Research and development expenditure (% of GDP),,,,,,,53.0,,,,72.0,,,,,87.0,,,,,90.0,90.0,81.0,87.0,80.0,71.0,,
+[Socio-economic sustainability] Rural population with access to electricity (%),154.0,,,,,164.0,,,,,179.0,,,,,184.0,,,,,188.0,188.0,187.0,188.0,189.0,189.0,191.0,
+[Socio-economic sustainability] Skilled labour force (% of labour force),,,,,,,,,,,,,,,,62.0,,,,,85.0,88.0,94.0,87.0,86.0,83.0,78.0,61.0
+"[Socio-economic sustainability] Total debt service (% of exports of goods, services and primary income)",92.0,,,,,100.0,,,,,102.0,,,,,111.0,,,,,116.0,115.0,115.0,115.0,113.0,112.0,98.0,
+[Trade and financial flows] Exports and imports (% of GDP),152.0,,,,,169.0,,,,,175.0,,,,,178.0,,,,,179.0,181.0,181.0,182.0,182.0,179.0,176.0,141.0
+"[Trade and financial flows] Foreign direct investment, net inflows (% of GDP)",141.0,,,,,167.0,,,,,175.0,,,,,186.0,,,,,186.0,185.0,186.0,187.0,187.0,186.0,184.0,118.0
+[Trade and financial flows] Net official development assistance received (% of GNI),118.0,,,,,136.0,,,,,135.0,,,,,140.0,,,,,139.0,136.0,135.0,137.0,135.0,134.0,134.0,
+[Trade and financial flows] Private capital flows (% of GDP),118.0,,,,,128.0,,,,,134.0,,,,,160.0,,,,,167.0,169.0,167.0,163.0,166.0,161.0,154.0,118.0
+"[Trade and financial flows] Remittances, inflows (% of GDP)",107.0,,,,,135.0,,,,,148.0,,,,,163.0,,,,,172.0,173.0,173.0,173.0,174.0,173.0,172.0,169.0
+"[Work, employment and vulnerability] Employment in agriculture (% of total employment)",,180.0,,,,180.0,,,,,180.0,,,,,180.0,,,,,180.0,180.0,180.0,180.0,180.0,180.0,180.0,180.0
+"[Work, employment and vulnerability] Employment in services (% of total employment)",,180.0,,,,180.0,,,,,180.0,,,,,180.0,,,,,180.0,180.0,180.0,180.0,180.0,180.0,180.0,180.0
+"[Work, employment and vulnerability] Employment to population ratio (% ages 15 and older)",,180.0,,,,180.0,,,,,180.0,,,,,180.0,,,,,180.0,180.0,180.0,180.0,180.0,180.0,180.0,180.0
+"[Work, employment and vulnerability] Labour force participation rate (% ages 15 and older)",180.0,,,,,180.0,,,,,180.0,,,,,180.0,,,,,180.0,180.0,180.0,180.0,180.0,180.0,180.0,180.0
+"[Work, employment and vulnerability] Labour force participation rate (% ages 15 and older), female",180.0,,,,,180.0,,,,,180.0,,,,,180.0,,,,,180.0,180.0,180.0,180.0,180.0,180.0,180.0,180.0
+"[Work, employment and vulnerability] Labour force participation rate (% ages 15 and older), male",180.0,,,,,180.0,,,,,180.0,,,,,180.0,,,,,180.0,180.0,180.0,180.0,180.0,180.0,180.0,180.0
+"[Work, employment and vulnerability] Unemployment, total (% of labour force)",,180.0,,,,180.0,,,,,180.0,,,,,180.0,,,,,180.0,180.0,180.0,180.0,180.0,180.0,180.0,180.0
+"[Work, employment and vulnerability] Unemployment, youth (% ages 15–24)",,180.0,,,,180.0,,,,,180.0,,,,,180.0,,,,,180.0,180.0,180.0,180.0,180.0,180.0,180.0,180.0
+"[Work, employment and vulnerability] Vulnerable employment (% of total employment)",,180.0,,,,180.0,,,,,180.0,,,,,180.0,,,,,180.0,180.0,180.0,180.0,180.0,180.0,180.0,180.0
+"[Work, employment and vulnerability] Youth not in school or employment (% ages 15-24)",,,,,,,,,,,,,,,,51.0,,,,,82.0,80.0,91.0,84.0,88.0,77.0,76.0,10.0

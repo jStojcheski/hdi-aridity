@@ -1,0 +1,98 @@
+Human Development Index (HDI)
+[Demography] Old age dependency ratio (old age (65 and older) per 100 people (ages 15-64))
+"[Demography] Population, ages 15–64 (millions)"
+"[Demography] Population, ages 65 and older (millions)"
+"[Demography] Population, total (millions)"
+"[Demography] Population, under age 5 (millions)"
+"[Demography] Population, urban (%)"
+[Demography] Young age (0-14) dependency ratio (per 100 people ages 15-64)
+[Education] Education Index
+[Education] Expected years of schooling (years)
+"[Education] Expected years of schooling, female (years)"
+"[Education] Expected years of schooling, male (years)"
+[Education] Government expenditure on education (% of GDP)
+"[Education] Gross enrolment ratio, pre-primary (% of preschool-age children)"
+"[Education] Gross enrolment ratio, primary (% of primary school-age population)"
+"[Education] Gross enrolment ratio, secondary (% of secondary school-age population)"
+"[Education] Gross enrolment ratio, tertiary (% of tertiary school-age population)"
+"[Education] Literacy rate, adult (% ages 15 and older)"
+[Education] Mean years of schooling (years)
+"[Education] Mean years of schooling, female (years)"
+"[Education] Mean years of schooling, male (years)"
+[Education] Population with at least some secondary education (% ages 25 and older)
+"[Education] Population with at least some secondary education, female (% ages 25 and older)"
+"[Education] Population with at least some secondary education, male (% ages 25 and older)"
+[Education] Primary school dropout rate (% of primary school cohort)
+[Education] Primary school teachers trained to teach (%)
+"[Education] Pupil-teacher ratio, primary school (number of pupils per teacher)"
+[Education] Survival rate to the last grade of lower secondary general education (%)
+[Environmental Sustainability] Fresh water withdrawals (% of total renewable water resources)
+"[Gender] Adolescent birth rate (births per 1,000 women ages 15-19)"
+"[Gender] Antenatal care coverage, at least one visit (%)"
+"[Gender] Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)"
+"[Gender] Estimated gross national income per capita, female (2011 PPP$)"
+"[Gender] Estimated gross national income per capita, male (2011 PPP$)"
+[Gender] Female share of employment in senior and middle management (%)
+[Gender] Gender Development Index (GDI)
+[Gender] Gender Inequality Index (GII)
+"[Gender] Human Development Index (HDI), female"
+"[Gender] Human Development Index (HDI), male"
+[Gender] Proportion of births attended by skilled health personnel (%)
+"[Gender] Share of employment in nonagriculture, female (% of total employment in nonagriculture)"
+[Gender] Share of seats in parliament (% held by women)
+[Gender] Total unemployment rate (female to male ratio)
+"[Gender] Unmet need for family planning (% of married or in-union women of reproductive age, 15–49 years)"
+[Gender] Youth unemployment rate (female to male ratio)
+"[Health] HIV prevalence, adult (% ages 15-49), total"
+"[Health] Infants lacking immunization, DTP (% of one-year-olds)"
+"[Health] Infants lacking immunization, measles (% of one-year-olds)"
+[Health] Life expectancy Index
+[Health] Life expectancy at birth (years)
+"[Health] Life expectancy at birth, female (years)"
+"[Health] Life expectancy at birth, male (years)"
+"[Health] Mortality rate, female adult (per 1,000 people)"
+"[Health] Mortality rate, infant (per 1,000 live births)"
+"[Health] Mortality rate, male adult (per 1,000 people)"
+"[Health] Mortality rate, under-five (per 1,000 live births)"
+"[Health] Tuberculosis incidence (per 100,000 people)"
+"[Human Security] Homicide rate (per 100,000 people)"
+[Income_composition of resources] Domestic credit provided by financial sector (% of GDP)
+[Income_composition of resources] Gross domestic product (GDP) per capita (2011 PPP $)
+"[Income_composition of resources] Gross domestic product (GDP), total (2011 PPP $ billions)"
+[Income_composition of resources] Gross fixed capital formation (% of GDP)
+[Income_composition of resources] Gross national income (GNI) per capita (2011 PPP$)
+[Income_composition of resources] Income Index
+[Inequality] Coefficient of Human Inequality
+[Inequality] Inequality in education (%)
+[Inequality] Inequality in income (%)
+[Inequality] Inequality in life expectancy (%)
+[Inequality] Inequality-adjusted HDI (IHDI)
+[Inequality] Inequality-adjusted education index
+[Inequality] Inequality-adjusted income index
+[Inequality] Inequality-adjusted life expectancy index
+[Inequality] Overall loss in HDI due to inequality (%)
+[Mobility and communication] International inbound tourists (thousands)
+[Mobility and communication] International student mobility (% of total tertiary enrolment)
+"[Mobility and communication] Internet users, total (% of population)"
+[Mobility and communication] Mobile phone subscriptions (per 100 people)
+[Socio-economic sustainability] Adjusted net savings (% of GNI)
+[Socio-economic sustainability] Concentration index (exports) (value)
+[Socio-economic sustainability] Gross capital formation (% of GDP)
+[Socio-economic sustainability] Rural population with access to electricity (%)
+[Socio-economic sustainability] Skilled labour force (% of labour force)
+"[Socio-economic sustainability] Total debt service (% of exports of goods, services and primary income)"
+[Trade and financial flows] Exports and imports (% of GDP)
+"[Trade and financial flows] Foreign direct investment, net inflows (% of GDP)"
+[Trade and financial flows] Net official development assistance received (% of GNI)
+[Trade and financial flows] Private capital flows (% of GDP)
+"[Trade and financial flows] Remittances, inflows (% of GDP)"
+"[Work, employment and vulnerability] Employment in agriculture (% of total employment)"
+"[Work, employment and vulnerability] Employment in services (% of total employment)"
+"[Work, employment and vulnerability] Employment to population ratio (% ages 15 and older)"
+"[Work, employment and vulnerability] Labour force participation rate (% ages 15 and older)"
+"[Work, employment and vulnerability] Labour force participation rate (% ages 15 and older), female"
+"[Work, employment and vulnerability] Labour force participation rate (% ages 15 and older), male"
+"[Work, employment and vulnerability] Unemployment, total (% of labour force)"
+"[Work, employment and vulnerability] Unemployment, youth (% ages 15–24)"
+"[Work, employment and vulnerability] Vulnerable employment (% of total employment)"
+"[Work, employment and vulnerability] Youth not in school or employment (% ages 15-24)"
